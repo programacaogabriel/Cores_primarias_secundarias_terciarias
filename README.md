@@ -3,8 +3,7 @@
 
 <h1 align="center">Cores Primarias Secundárias Terciárias </h1>
 
-####  Está é uma aplicação web planejada por mim, onde realizo a criação de um site de diversas cores e conforme a pessoa vai clicando em uma determinado botão a cor desejada irá fazer parte de plano de fundo.
-
+####  Está é uma aplicação web planejada por mim, onde realizo a criação de um site e conforme a pessoa vai clicando em um determinado botão de cor desejada a mesma irá fazer parte de plano de fundo.
 
 ### Projeto 🏰
 Este é um repositório usado como base para mostrar o meu trabalho com html css e javascript
@@ -20,9 +19,9 @@ Este é um repositório usado como base para mostrar o meu trabalho com html css
 
 ### Como utilizar
 
-1 - Abrir o site pelo link 
-2 - Visualizar a cor desejada
-3 - Clicar na cor e observar ela vindo para o plano de fundo
+*  Abrir o site pelo link 
+*  Visualizar a cor desejada
+*  Clicar na cor e observar ela vindo para o plano de fundo
 
 ### Acesso ao site 
 https://programacaogabriel.github.io/Cores_primarias_secundarias_terciarias/
