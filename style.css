@@ -14,6 +14,7 @@ body {
     text-align: center;
     color: white;
 
+
 }
 
 .alinhamento {
@@ -33,5 +34,65 @@ body {
     border-radius: 10px;
     text-align: center;
     font-size: max(12px, 1.1vh);
+
+}
+
+/* Cores do botão */
+#bt0:hover {
+    background-color: yellow;
+
+}
+
+#bt1:hover {
+    background-color: red;
+
+}
+
+#bt2:hover {
+    background-color: blue;
+
+}
+
+#bt3:hover {
+    background-color: violet;
+
+}
+
+#bt4:hover {
+    background-color: green;
+
+}
+
+#bt5:hover {
+    background-color: orange;
+
+}
+
+#bt6:hover {
+    background-color: #953553;
+
+}
+
+#bt7:hover {
+    background-color: #FF4433;
+
+}
+
+#bt8:hover {
+    background-color: #9ACD32;
+
+}
+
+#bt9:hover {
+    background-color: #FFAE42;
+
+}
+
+#bt10:hover {
+    background-color: #293462
+}
+
+#bt11:hover {
+    background-color: #40e0d0;
 
 }
