@@ -24,4 +24,8 @@ Este é um repositório usado como base para mostrar o meu trabalho com html css
 *  Clicar na cor e observar ela vindo para o plano de fundo
 
 ### Acesso ao site 
-https://programacaogabriel.github.io/Cores_primarias_secundarias_terciarias/
+https://programacaogabriel.github.io/Site---Cores_e_Cores/
+
+
+### Acesso ao Plano de test
+https://github.com/programacaogabriel/Plano_de_test_Site-----Cores_e_Cores
